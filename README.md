@@ -9,7 +9,7 @@ Live URL: https://smartmail-ai-pi.vercel.app/
 https://github.com/shidoshidoshido/smartmail-ai.git
 
 ✨ Features
-🤖 AI-powered email generation using Google Gemini
+🤖 AI-powered email generation using Open AI
 📝 Generate emails from a short description
 🎯 Multiple writing tones
 Professional
@@ -27,7 +27,7 @@ Next.js 15	Frontend & Backend
 React	User Interface
 TypeScript	Type Safety
 Tailwind CSS	Styling
-Google Gemini API	AI Email Generation
+Open AI API	AI Email Generation
 GitHub Actions	Continuous Integration
 Vercel	Deployment
 📸 Application Preview
@@ -57,7 +57,7 @@ https://github.com/shidoshidoshido/smartmail-ai.git
 
 ## ✨ Features
 
-- 🤖 AI-powered email generation using Google Gemini
+- 🤖 AI-powered email generation using Open AI
 - 📝 Generate emails from a short description
 - 🎯 Multiple writing tones
   - Professional
@@ -80,7 +80,7 @@ https://github.com/shidoshidoshido/smartmail-ai.git
 | React | User Interface |
 | TypeScript | Type Safety |
 | Tailwind CSS | Styling |
-| Google Gemini API | AI Email Generation |
+| Google Open AI API | AI Email Generation |
 | GitHub Actions | Continuous Integration |
 | Vercel | Deployment |
 
@@ -130,7 +130,7 @@ npm install
 Create an environment file.
 
 .env.local
-Add your Gemini API key.
+Add your Open AI API key.
 
 OPENAI_API_KEY=YOUR_OPEN_AI_API_KEY
 =======
@@ -164,7 +164,7 @@ Create an environment file.
 .env.local
 ```
 
-Add your Gemini API key.
+Add your Open AI API key.
 
 ```env
 OPENAI_API_KEY=YOUR_OPEN_AI_API_KEY
