@@ -3,3 +3,12 @@
 
 This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
 <!-- END:nextjs-agent-rules -->
+# AI Development Guide
+ 
+Rules
+ 
+- Use TypeScript
+- Keep components reusable
+- Validate user input
+- Never expose API keys
+- Write unit tests
