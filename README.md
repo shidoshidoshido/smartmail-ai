@@ -348,3 +348,7 @@ This project is created for educational purposes as part of the Week 4 AI-Powere
 ## Security and Deployment
 
 SmartMail AI stores the OpenAI API key in environment variables and sends all AI requests through a server-side API route. The application is deployed through Vercel.
+
+## Version 2 Roadmap
+
+Future improvements may include editable email outputs, saved history, multilingual generation, and Gmail or Outlook integration.
