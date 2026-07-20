@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 📧 SmartMail AI
 SmartMail AI is an AI-powered web application that helps users generate professional emails in seconds. By providing a brief description of their situation and selecting a preferred tone, users receive a well-written email generated using Open AI.
 
