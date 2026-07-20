@@ -3,14 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-  "lint": "next lint",
-  "test": "jest"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest"
+  },
   "dependencies": {
     "next": "16.2.10",
+    "openai": "^6.48.0",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
