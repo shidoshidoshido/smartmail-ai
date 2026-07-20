@@ -98,7 +98,6 @@ Example:
 # 📁 Project Structure
 
 ```
->>>>>>> 790db752ecfca8939ff8f57f87ae4cd23ff0fcbc
 smartmail-ai/
 │
 ├── app/
@@ -116,7 +115,7 @@ smartmail-ai/
 ├── README.md
 ├── package.json
 └── .env.local
-<<<<<<< HEAD
+
 ⚙️ Installation
 Clone the repository.
 
@@ -170,11 +169,11 @@ Add your Open AI API key.
 OPENAI_API_KEY=YOUR_OPEN_AI_API_KEY
 ```
 
->>>>>>> 790db752ecfca8939ff8f57f87ae4cd23ff0fcbc
+
 Start the development server.
 
 npm run dev
-<<<<<<< HEAD
+
 Open
 
 http://localhost:3000
@@ -344,7 +343,6 @@ Generative AI Course – Week 4 Mini Project
 # 📄 License
 
 This project is created for educational purposes as part of the Week 4 AI-Powered Web Application assignment.
->>>>>>> 790db752ecfca8939ff8f57f87ae4cd23ff0fcbc
 ## Security and Deployment
 
 SmartMail AI stores the OpenAI API key in environment variables and sends all AI requests through a server-side API route. The application is deployed through Vercel.
